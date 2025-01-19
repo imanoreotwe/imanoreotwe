@@ -1,4 +1,10 @@
-## Hi there 👋
+### Asuhh
+
+im-a-oreo-~~two~~twe
+
+I am a hacker and musician.
+Check out the things I tinker with.
+Or [my music](https://soundcloud.com/ogsweatergod)
 
 <!--
 **imanoreotwe/imanoreotwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
