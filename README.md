@@ -3,10 +3,25 @@
 im-a-oreo-~~two~~twe
 
 I am a hacker and musician.
+I wanna create things that give people an emotional reaction, that warm fuzzy feeling like "I'm home".
 
 Check out the things I tinker with.
 
 Or [my music](https://soundcloud.com/ogsweatergod)
+
+Things I'm interested in:
+- Decentralized Computing
+- AI, Vector Databases, Deep Learning, Recomendation Algorithms
+- Computer Archetecture
+- Hardware
+
+Hobbies:
+- Music production
+- DJing
+- Sim Racing
+- Jiu Jitsu
+- Hiking/Camping
+- Programming
 
 <!--
 **imanoreotwe/imanoreotwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
