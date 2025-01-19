@@ -3,7 +3,9 @@
 im-a-oreo-~~two~~twe
 
 I am a hacker and musician.
+
 Check out the things I tinker with.
+
 Or [my music](https://soundcloud.com/ogsweatergod)
 
 <!--
