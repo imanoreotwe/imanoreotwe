@@ -9,19 +9,21 @@ Check out the things I tinker with.
 
 Or [my music](https://soundcloud.com/ogsweatergod)
 
-Things I'm interested in:
+I'm interested in:
 - Decentralized Computing
+- Cybersecurity & Encryption
 - AI, Vector Databases, Deep Learning, Recomendation Algorithms
 - Computer Archetecture
+- Radios & Wireless Communication
 - Hardware
 
 Hobbies:
-- Music production
-- DJing
+- Music production & DJing
 - Sim Racing
 - Jiu Jitsu
 - Hiking/Camping
 - Programming
+- Ham Radio
 
 <!--
 **imanoreotwe/imanoreotwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
